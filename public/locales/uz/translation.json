@@ -1,0 +1,29 @@
+{
+    "text":{
+        "MyShopping": "Mening xaridlarim",
+        "TABLE": "JADVAL" ,
+        "CREATE": "YARATMOQ",
+        "writeTitle": "sarlavha yozing",
+        "Price": "Narxi",
+        "or": "yoki",
+        "AddtoCart": "savatchaga qo'shish",
+        "Name": "Ism",
+        "Error": "Xato",
+        "Orprice": "Boshqa narx",
+        "Image": "Rasm",
+        "Size": "Hajmi",
+        "Amount": "Miqdori",
+        "Submit": "Yuborish",
+        "Edit": "Tahrirlash",
+        "Delete": "Oʻchirish",
+        "SUBTOTAL": "Umumiy miqdor",
+        "Remove": "O'chirish",
+        "titledb1": "Asosiy kaktusli oq futbolka",
+        "titledb2": "Skater uchun qora sviter",
+        "titledb3": "Katta o'lchamdagi qora tül",
+        "titledb4": "Qora Betmen futbolka",
+        "titledb5": "Moviy futbolka",
+        "titledb6": "Yengil qora futbolka",
+        "titledb7": "Ringer Hall Pass"
+    }
+}

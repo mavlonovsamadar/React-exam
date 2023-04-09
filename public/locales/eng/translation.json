@@ -1,0 +1,31 @@
+{
+    "text":{
+        "MyShopping": "MyShopping",
+        "TABLE": "TABLE" ,
+        "CREATE": "CREATE",
+        "writeTitle": " write title",
+        "Price": "Price",
+        "or": "or",
+        "AddtoCart": "Add to Cart",
+        "Name": "Name",
+        "Error": "Error",
+        "Orprice": "Orprice",
+        "Image": "Image",
+        "Size": "Size",
+        "Amount": "Amount",
+        "Submit": "Submit",
+        "Edit": "Edit",
+        "Delete": "Delete",
+        "SUBTOTAL": "SUBTOTAL",
+        "Remove": "Remove",
+        "success": "success",
+        "titledb1": "Basic Cactus White T-shirt",
+        "titledb2": "Skater Black Sweatshirt",
+        "titledb3": "Black Tule Oversized",
+        "titledb4": "Black Batman T-shirt",
+        "titledb5": "Blue T-Shirt",
+        "titledb6": "Loose Black T-shirt",
+        "titledb7": "Ringer Hall Pass"
+
+    }
+}
